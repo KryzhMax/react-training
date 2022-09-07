@@ -1,0 +1,25 @@
+.menuLink {
+  display: flex;
+  column-gap: 24px;
+  align-items: center;
+  text-decoration: none;
+}
+
+.menuText {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.71;
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 1.25px;
+  text-transform: uppercase;
+
+  color: #010101;
+}
+
+.menuText:hover {
+  color: #ff6b0a;
+}
